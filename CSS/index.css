@@ -199,3 +199,11 @@ hr{
 
 
 /********************************ID SELECTORS*************************/
+
+/********************************MEDIA SELECTORS*************************/
+@media screen and(max-width:995px){
+    .cloudBottom{
+        display:none;
+    }
+    .
+}
