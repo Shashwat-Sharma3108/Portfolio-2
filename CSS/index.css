@@ -201,8 +201,8 @@ hr{
 /********************************ID SELECTORS*************************/
 
 /********************************MEDIA SELECTORS*************************/
-@media screen (max-width:995px){
+@media screen and (max-width:995px){
     .cloudBottom{
-        display:none;
+        display: none;
     }
 }
